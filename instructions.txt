@@ -1,0 +1,2 @@
+Generate the new database
+-> npx prisma generate
